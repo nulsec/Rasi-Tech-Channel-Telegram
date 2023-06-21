@@ -1,0 +1,42 @@
+[
+   {
+       "command":"/start",
+       "type":"exactmatch",
+       "answer":"haloo aku bot ziko, untuk mengetahui fungsi bot ini silahkan ketik opsi menu" 
+   },
+   {
+       "command":"/username",
+       "type":"exactmatch",
+       "answer":"ini username kamu <b>@(username)</b>" 
+   },
+   {
+       "command":"/menu",
+       "type":"exactmatch",
+       "answer":"untuk menjalankan bot ini bisa di ketik dengan \n1. /start (mulai bot) \n2. /username (username kamu) \n3. /viralsongs (sound yang sedang viral)" 
+   },
+   {
+       "command":"/viralsong",
+       "type":"exactmatch",
+       "answer":"silahkan pilih salah satu dari platform berikut \n1. instagram\n2. youtube\n3. tiktok\n4. spotify\nketik nomornya saja" 
+   },
+   {
+       "command":"1",
+       "type":"exactmatch",
+       "answer":"1. https://instagram.com/viralsongstiktok?igshid=MTIyMzRjYmRlZg== \n\n 2. https://instagram.com/tiktoksoundsforyou?igshid=MTIyMzRjYmRlZg== \n\n 3. https://instagram.com/laguviral_?igshid=MTIyMzRjYmRlZg== \n\n 4. https://instagram.com/dj_tiktok_viral?igshid=MTIyMzRjYmRlZg==" 
+   },
+   {
+       "command":"2",
+       "type":"exactmatch",
+       "answer":"1. https://youtu.be/LuvdcOeiQ24 \n\n 2. https://youtube.com/playlist?list=PLcirGkCPmbmFMTvVKFvcG_tRAPkN_QcV1 \n\n 3. https://youtu.be/r0HB21TkzYE \n\n 4. https://youtu.be/k43xsm1GZ-4 \n\n 5. https://youtu.be/ZFVYi9_TFJc \n\n 6. https://youtu.be/HxxNFEyDAy0 \n\n 7. https://youtu.be/2j0RT0ws-rk \n\n 8. https://youtu.be/jDa5FiY4yqA \n\n 9. https://youtube.com/playlist?list=PL612Gyj7-iEuD1azJ_m_9QBcuemz95Tb4 \n\n 10. https://youtu.be/F1-3Pshgtx" 
+   },
+   {
+       "command":"3",
+       "type":"exactmatch",
+       "answer":"1. https://www.tiktok.com/@_viral.songs?_t=8bnHE5Iu3Pd \n\n 2. https://www.tiktok.com/@izxfw?_t=8bnHHd0z6Sf1 \n\n 3. https://www.tiktok.com/@songsuggestss?_t=8bnHIwJNrCE \n\n 4. https://www.tiktok.com/@songs.2k?_t=8bnHKLs40n3" 
+   },
+   {
+       "command":"siapa yang paling cantik?",
+       "type":"contains",
+       "answer":"pacarnya ziko dongg udah pasti hana" 
+   }
+]

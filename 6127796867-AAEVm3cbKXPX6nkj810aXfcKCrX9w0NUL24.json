@@ -1,0 +1,12 @@
+[
+   {
+       "command":"/id",
+       "type":"exactmatch",
+       "answer":"username anda: @(username)\nTerimakasih" 
+   },
+   {
+       "command":"/start",
+       "type":"exactmatch",
+       "answer":"hai, (username), bot ini dibuat agar saya mendapatkan giveaway 30k :v\n hehe menu nya ada /id doang sii.\n created by @royalnavy777" 
+   }
+]

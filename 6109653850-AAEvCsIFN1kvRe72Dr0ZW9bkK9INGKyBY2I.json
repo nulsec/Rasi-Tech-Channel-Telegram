@@ -1,0 +1,7 @@
+[
+   {
+       "command":"/cek",
+       "type":"exactmatch",
+       "answer":"hello <b> (first_name) (last_name)</b>\nYour Username: (username)\nYour Chat  Id: (chat_id)\n\n===============\n(time) (date)" 
+   }
+]

@@ -1,0 +1,29 @@
+[
+   {
+       "command":"*",
+       "type":"welcome",
+       "answer":"Hola" 
+   },
+   {
+       "command":"Halo",
+       "type":"startwith",
+       "answer":"Ya selamat datang" 
+   },
+   {
+       "command":"Halo",
+       "type":"startwith",
+       "answer":"Ya selamat datang" 
+   },
+   {
+       "command":"P",
+       "type":"startwith",
+       "answer":"Ya selamat datang silahkan klik button lanjutan 
+Next - https://alight.link/E5D9WmsCHaGPsjmA9" 
+   },
+   {
+       "command":"P",
+       "type":"startwith",
+       "answer":"Ya selamat datang silahkan klik button lanjutan 
+Next - https://alight.link/E5D9WmsCHaGPsjmA9" 
+   }
+]

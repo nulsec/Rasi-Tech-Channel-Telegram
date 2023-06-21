@@ -1,0 +1,23 @@
+[
+   {
+       "command":"/start",
+       "type":"exactmatch",
+       "answer":"halo <b>@(username)</b>,  saya spaceshatter bot paling keren sedunia! " 
+   },
+   {
+       "command":"/tanggal ",
+       "type":"exactmatch",
+       "answer":"sekarang itu date_time" 
+   },
+   {
+       "command":"/username",
+       "type":"exactmatch",
+       "answer":"nama kamu @(Username)" 
+   },
+
+   {
+       "command":"*/menu",
+       "type":"contains",
+       "answer":"silahkan pilih menu dibawah ini\n1.meme youtube\n2.meme Instagram\n3.meme youtube" 
+   }
+]

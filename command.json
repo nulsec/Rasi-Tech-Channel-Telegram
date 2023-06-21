@@ -1,0 +1,32 @@
+[
+   {
+      "command":"ok",
+      "type":"contains",
+      "answer":"ok <b>(message)</b> @(username)"
+   },
+   {
+      "command":"/start",
+      "type":"startwith",
+      "answer":"apa khabar @(username)"
+   },
+   {
+      "command":"ok",
+      "type":"endwith",
+      "answer":"ok <b>(message)</b> @(username)"
+   },
+   {
+      "command":"iya",
+      "type":"exactmatch",
+      "answer":"iya juga (from_id)"
+   },
+   {
+      "command":"*",
+      "type":"welcome",
+      "answer":"selamat datang @(username)"
+   },
+   {
+      "command":"*",
+      "type":"all",
+      "answer":"Join @RasiTechChannel1 (reply_message_id)"
+   }
+]

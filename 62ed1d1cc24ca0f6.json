@@ -1,0 +1,12 @@
+[
+   {
+       "command":"/start",
+       "type":"exactmatch",
+       "answer":"halo" 
+   },
+   {
+       "command":"/start",
+       "type":"exactmatch",
+       "answer":"halo" 
+   }
+]

@@ -1,0 +1,72 @@
+[
+  {
+       "command":"/start",
+       "type":"exactmatch",
+       "answer":"Hey, yuk ngobrol bareng dede. Kirim /dede untuk tau apa yang bisa dede lakukan. " 
+   },
+   {
+       "command":"/chat",
+       "type":"startwith",
+       "answer":"(botai2)" 
+   },
+   {
+       "command":"/tanya",
+       "type":"startwith",
+       "answer":"(gpt2) " 
+   },
+   {
+       "command":"/truth",
+       "type":"exactmatch",
+       "answer":"(truth)" 
+   },
+   {
+       "command":"/dare",
+       "type":"exactmatch",
+       "answer":"(dare)" 
+   },
+   {
+       "command":"/quotes",
+       "type":"exactmatch",
+       "answer":"(anime_quote) " 
+   },
+   {
+       "command":"/pantun",
+       "type":"exactmatch",
+       "answer":"(pantun) " 
+   },
+   {
+       "command":"/dede",
+       "type":"exactmatch",
+       "answer":"Ketik /chat [pesanmu] atau /tanya [pesanmu] klik /contoh untuk mendapat contoh\nKetik /pantun untuk mendapat pantun\nKetik /quotes untuk dapat quote\nKetik /truth or /dare untuk bermain truth or dare\nKetik /kuis1 (1000x6) atau /kuis2 (2000x2) untuk jawab soal berhadiah daget" 
+   },
+   {
+       "command":"/contoh",
+       "type":"exactmatch",
+       "answer":"/chat Hai kenalan dong\n/tanya apa menu sarapan hari ini?" 
+   },
+   {
+       "command":"/kuis1",
+       "type":"exactmatch",
+       "answer":"Kuis dah selesai kak, terimakasih sudah berpartisipasi 🙏" 
+   },
+   {
+       "command":"4550",
+       "type":"exactmatch",
+       "answer":"Congrats Kaka 🥳👏🎉 Silahkan dicek https://bit.ly/3LNgvwu" 
+   },
+   {
+       "command":"Kau akan dieksekusi",
+       "type":"contains",
+       "answer":"Congrats Kaka 🥳👏🎉 Silahkan dicek https://bit.ly/3pis335" 
+   },
+   {
+       "command":"/kuis2",
+       "type":"exactmatch",
+       "answer":"Kuis dah selesai kak, terimakasih sudah berpartisipasi 🙏" 
+   }, 
+   {
+      "command":"*",
+      "type":"all",
+      "answer":"(botai)"
+   }
+]

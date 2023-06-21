@@ -1,0 +1,12 @@
+[
+   {
+       "command":"/Start",
+       "type":"contains",
+       "answer":"Hallo Saya adalah asisten @utoumasyfeaan apakah ada yang bisa saya bantu?" 
+   },
+   {
+       "command":"assalamualaikum ",
+       "type":"contains",
+       "answer":"waalaikum salam " 
+   }
+]

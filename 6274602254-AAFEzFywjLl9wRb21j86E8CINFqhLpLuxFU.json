@@ -1,0 +1,12 @@
+[
+   {
+       "command":"/start",
+       "type":"exactmatch",
+       "answer":"Halo @(username) (first_name), ini adalah bot chat ai, silahkan ketik /chat [pesan] untuk menggunakannya." 
+   },
+   {
+       "command":"/chat",
+       "type":"startwith",
+       "answer":"🤖 : (botai2)" 
+   }
+]

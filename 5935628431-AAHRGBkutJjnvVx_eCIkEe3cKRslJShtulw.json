@@ -1,0 +1,12 @@
+[
+   {
+       "command":"*",
+       "type":"all",
+       "answer":"Tes" 
+   },
+   {
+       "command":"*",
+       "type":"contains",
+       "answer":"tes" 
+   }
+]

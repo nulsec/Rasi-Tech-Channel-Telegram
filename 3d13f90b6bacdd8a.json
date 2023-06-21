@@ -1,0 +1,12 @@
+[
+   {
+       "command":"start",
+       "type":"contains",
+       "answer":"Welcome !" 
+   },
+   {
+       "command":"myid",
+       "type":"exactmatch",
+       "answer":"Id Anda : (chat_id)\n¶" 
+   }
+]

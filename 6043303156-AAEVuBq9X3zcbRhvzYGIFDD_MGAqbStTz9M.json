@@ -1,0 +1,12 @@
+[
+   {
+       "command":"Ping",
+       "type":"contains",
+       "answer":"Y" 
+   },
+   {
+       "command":"Ping",
+       "type":"contains",
+       "answer":"Y" 
+   }
+]

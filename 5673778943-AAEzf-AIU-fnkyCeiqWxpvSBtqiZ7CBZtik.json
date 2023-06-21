@@ -1,0 +1,192 @@
+[
+   {
+      "command":"/start",
+      "type":"exactmatch",
+      "answer":"Halo <b>@(username)!</b>, bot ini bisa menjaga grup."
+   },
+   {
+      "command":"/lapor",
+      "type":"exactmatch",
+      "answer":"Woy <b>@rasirt!</b>, member lu ngelaporin si @(reply_message_username) tuh."
+   },
+   {
+      "command":"/lapor@satpam_adminbot",
+      "type":"exactmatch",
+      "answer":"Woy <b>@rasirt!</b>, member lu ngelaporin si @(reply_message_username) tuh."
+   },
+   {
+      "command":"/report",
+      "type":"exactmatch",
+      "answer":"Woy <b>@rasirt!</b>, member lu ngelaporin si @(reply_message_username) tuh."
+   },
+   {
+      "command":"/report@satpam_adminbot",
+      "type":"exactmatch",
+      "answer":"Woy <b>@rasirt!</b>, member lu ngelaporin si @(reply_message_username) tuh."
+   },
+   {
+      "command":"@admin",
+      "type":"exactmatch",
+      "answer":"Woy <b>@rasirt!</b>, member lu ngelaporin si @(reply_message_username) tuh."
+   },
+   {
+      "command":"hack",
+      "type":"contains",
+      "answer":"Woy @(username), disini bukan grup hacker"
+   },
+   {
+      "command":"lacak",
+      "type":"contains",
+      "answer":"Woy @(username), disini bukan grup pelacakan"
+   },
+   {
+      "command":"sadap",
+      "type":"contains",
+      "answer":"Woy @(username), disini bukan grup sadap"
+   },
+   {
+      "command":"whatsapp",
+      "type":"contains",
+      "answer":"Save wa mimin aja:)"
+   },
+   {
+      "command":"/rules",
+      "type":"exactmatch",
+      "answer":"WAJIB DIBACA UNTUK SELURUH MEMBER GRUP RasiTech Channel Chat\n\n- DISCLAIMER - \n\n1. RasiTech Channel Chat merupakan group untuk membahas project rasitech.\n\n2. Dengan bergabung dalam group ini berarti anda setuju mematuhi peraturan berikut:\n\n2.1 Segala jenis informasi yang tersedia di group ini adalah untuk tujuan pendidikan semata dan bukan untuk aksi kejahatan dan /atau perbuatan yang dapat merugikan pihak lain.\n\n2.2 Kami tidak bertanggung jawab atas penyalahgunaan informasi / ilmu dari group ini dalam bentuk apapun.\n\n2.3 Share link Group lain / endorse produk harap seizin admin RasiTech Channel Chat\n\n2.4 Dilarang melimpahkan kerjaan kantor anda disini, apabila membutuhkan bantuan bisa kirim penawaran dilanjut PM.\n\n2.5 Tidak ada panggilan suhu, master dan guru, disini tempat untuk belajar bersama.\n\n2.6 Group ini bukan tempat untuk bertanya 'bisa minta cara/tolong lacak ..... ?' selain urusan yang urgent (dilengkapi laporan resmi dr aparat yg berwenang). Manfaatkan Group ini untuk anda belajar dan menemukan solusi atas permasalahan anda sendiri.\n\n2.7 Berbicaralah dengan etika yang baik tanpa SARA, melanggar auto remove dan block.\n\n2.8 Share link investasi online / serupa auto remove dan block.\n\nTerima Kasih.\n\nBy @rasirt2"
+   },
+   {
+      "command":"/rules@satpam_adminbot",
+      "type":"exactmatch",
+      "answer":"WAJIB DIBACA UNTUK SELURUH MEMBER GRUP RasiTech Channel Chat\n\n- DISCLAIMER - \n\n1. RasiTech Channel Chat merupakan group untuk membahas project rasitech.\n\n2. Dengan bergabung dalam group ini berarti anda setuju mematuhi peraturan berikut:\n\n2.1 Segala jenis informasi yang tersedia di group ini adalah untuk tujuan pendidikan semata dan bukan untuk aksi kejahatan dan /atau perbuatan yang dapat merugikan pihak lain.\n\n2.2 Kami tidak bertanggung jawab atas penyalahgunaan informasi / ilmu dari group ini dalam bentuk apapun.\n\n2.3 Share link Group lain / endorse produk harap seizin admin RasiTech Channel Chat\n\n2.4 Dilarang melimpahkan kerjaan kantor anda disini, apabila membutuhkan bantuan bisa kirim penawaran dilanjut PM.\n\n2.5 Tidak ada panggilan suhu, master dan guru, disini tempat untuk belajar bersama.\n\n2.6 Group ini bukan tempat untuk bertanya 'bisa minta cara/tolong lacak ..... ?' selain urusan yang urgent (dilengkapi laporan resmi dr aparat yg berwenang). Manfaatkan Group ini untuk anda belajar dan menemukan solusi atas permasalahan anda sendiri.\n\n2.7 Berbicaralah dengan etika yang baik tanpa SARA, melanggar auto remove dan block.\n\n2.8 Share link investasi online / serupa auto remove dan block.\n\nTerima Kasih.\n\nBy @rasirt2"
+   },
+   {
+      "command":"rekber",
+      "type":"contains",
+      "answer":"kalo mau rekber yang aman bisa pake jasa @rasirt2, tapi ga selalu online:) jadi sabar aja."
+   },
+   {
+      "command":"beli",
+      "type":"contains",
+      "answer":"mau beli apa nih? intellius? kalo itu belinya ke @rasirt2 aja."
+   },
+   {
+      "command":"order",
+      "type":"contains",
+      "answer":"mau order apa nih? intellius? kalo itu ordernya ke @rasirt2 aja."
+   },
+   {
+      "command":"premium",
+      "type":"contains",
+      "answer":"mau premium apa nih? intellius? kalo itu ordernya ke @rasirt2 aja."
+   },
+   {
+      "command":"osint",
+      "type":"contains",
+      "answer":"Open-Source Intelligence - Pencarian data dari sumber terbuka."
+   },
+   {
+      "command":"/id",
+      "type":"exactmatch",
+      "answer":"ID Anda : (from_id)"
+   },
+   {
+      "command":"/id@satpam_adminbot",
+      "type":"exactmatch",
+      "answer":"ID Anda : (from_id)"
+   },
+   {
+      "command":"/repid",
+      "type":"exactmatch",
+      "answer":"ID Akun : (reply_message_from_id)"
+   },
+   {
+      "command":"/repid@satpam_adminbot",
+      "type":"exactmatch",
+      "answer":"ID Akun : (reply_message_from_id)"
+   },
+   {
+      "command":"/taginfo",
+      "type":"exactmatch",
+      "answer":"ID Pesan Anda : (message_id)\nPesan Reply : (reply)\nPesan : (message)\nUsername Anda : (username)\nNama Depan Anda : (first_name)\nNama Belakang Anda : (last_name)\nID Akun : (reply_message_from_id)\nChat ID : (reply_message_id)\nID Pesan : (reply_message_id)\nUsername Akun : (reply_message_username)\nNama Depan : (reply_message_first_name)\nNama Belakang : (reply_message_last_name)\nCaption : (reply_caption)\nTanggal Cek : (date)\nWaktu Cek : (time)"
+   },
+   {
+      "command":"/taginfo@satpam_adminbot",
+      "type":"exactmatch",
+      "answer":"ID Pesan Anda : (message_id)\nPesan Reply : (reply)\nPesan : (message)\nUsername Anda : (username)\nNama Depan Anda : (first_name)\nNama Belakang Anda : (last_name)\nID Akun : (reply_message_from_id)\nChat ID : (reply_message_id)\nID Pesan : (reply_message_id)\nUsername Akun : (reply_message_username)\nNama Depan : (reply_message_first_name)\nNama Belakang : (reply_message_last_name)\nCaption : (reply_caption)\nTanggal Cek : (date)\nWaktu Cek : (time)"
+   },
+   {
+      "command":"apa",
+      "type":"startwith",
+      "answer":"apa?"
+   },
+   {
+      "command":"apa?",
+      "type":"endwith",
+      "answer":"apa?"
+   },
+   {
+      "command":"bayar",
+      "type":"contains",
+      "answer":"Bayar Premium Intellius ke @rasirt2"
+   },
+   {
+      "command":"harga",
+      "type":"contains",
+      "answer":"Harga bot dan FAQ bisa cek disini https://t.me/RasiTechChannel1/1785"
+   },
+   {
+      "command":"faq",
+      "type":"exactmatch",
+      "answer":"https://t.me/RasiTechChannel1/1785"
+   },
+   {
+      "command":"/peringatan",
+      "type":"exactmatch",
+      "answer":"Anda telah melanggar aturan grup. Mohon untuk tidak mengulangi lagi."
+   },
+   {
+      "command":"/peringatan@satpam_adminbot",
+      "type":"exactmatch",
+      "answer":"Anda telah melanggar aturan grup. Mohon untuk tidak mengulangi lagi."
+   },
+   {
+      "command":"/pengumuman",
+      "type":"exactmatch",
+      "answer":"Berikut adalah pengumuman terbaru:\n\nIni adalah pengumuman penting. Mohon untuk dibaca dengan seksama."
+   },
+   {
+      "command":"/pengumuman@satpam_adminbot",
+      "type":"exactmatch",
+      "answer":"Berikut adalah pengumuman terbaru:\n\nIni adalah pengumuman penting. Mohon untuk dibaca dengan seksama."
+   },
+   {
+      "command":"rip",
+      "type":"contains",
+      "answer":"Rip? Ripper? Lapor Polisi aja kang / teteh."
+   },
+   {
+      "command":"nipu",
+      "type":"contains",
+      "answer":"nipu? penipu? Lapor Polisi aja kang / teteh."
+   },
+   {
+      "command":"Assalamualaikum",
+      "type":"contains",
+      "answer":"Waalaikumsalam"
+   },
+   {
+      "command":"pp",
+      "type":"contains",
+      "answer":"cok"
+   },
+   {
+      "command":"/spin",
+      "type":"exactmatch",
+      "answer":"Anda mendapatkan {[\"Bola\", \"HP\", \"Mobil\", \"Laptop\", \"Sepatu\", \"Sepeda\"]} dari pak {[\"Ganjar\", \"Jokowi\", \"Anies\", \"Sandiaga Uno\", \"Mahfud Md\", \"Rocky Gerung\"]}"
+   },
+   {
+      "command":"/spin@satpam_adminbot",
+      "type":"exactmatch",
+      "answer":"Anda mendapatkan {[\"Bola\", \"HP\", \"Mobil\", \"Laptop\", \"Sepatu\", \"Sepeda\"]} dari pak {[\"Ganjar\", \"Jokowi\", \"Anies\", \"Sandiaga Uno\", \"Mahfud Md\", \"Rocky Gerung\"]}"
+   }
+]

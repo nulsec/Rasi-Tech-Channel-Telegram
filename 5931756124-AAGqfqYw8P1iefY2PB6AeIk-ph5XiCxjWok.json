@@ -1,0 +1,17 @@
+[
+   {
+       "command":"anjing",
+       "type":"contains",
+       "answer":"kamu gaboleh ngomong kasar" 
+   },
+   {
+       "command":"aku punya siapa",
+       "type":"contains",
+       "answer":"kamu punya aku -hana" 
+   },
+   {
+       "command":"aku h",
+       "type":"contains",
+       "answer":"cieee,aku juga WWKKWKW" 
+   }
+]

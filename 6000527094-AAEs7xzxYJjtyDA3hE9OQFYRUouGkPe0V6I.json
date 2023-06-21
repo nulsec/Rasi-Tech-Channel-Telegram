@@ -1,0 +1,17 @@
+[
+   {
+       "command":"/start",
+       "type":"exactmatch",
+       "answer":"Halo (mention_from_first), silahkan kirim /chat [pesan]  untuk ngobrol bersama Bot." 
+   },
+   {
+       "command":"/chat",
+       "type":"startwith",
+       "answer":"Jawaban : <b>(botai2)</b>" 
+   },
+   {
+       "command":"/id",
+       "type":"exactmatch",
+       "answer":"ID Kamu : (from_id)" 
+   }
+]

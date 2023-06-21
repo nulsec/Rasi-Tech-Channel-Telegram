@@ -1,0 +1,12 @@
+[
+   {
+       "command":"*hai",
+       "type":"contains",
+       "answer":"hai juga" 
+   },
+   {
+       "command":"*hai",
+       "type":"exactmatch",
+       "answer":"hai juga" 
+   }
+]

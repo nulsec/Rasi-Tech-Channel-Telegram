@@ -1,0 +1,42 @@
+[
+   {
+       "command":"assalamualaikum",
+       "type":"contains",
+       "answer":"waalaikumsalam @(username)" 
+   },
+   {
+       "command":"/id",
+       "type":"contains",
+       "answer":"User id : (chat_id)\nUsername : @(username)" 
+   },
+   {
+       "command":"/start",
+       "type":"exactmatch",
+       "answer":"Silahkan pilih menu dibawah ini\n1. Text Lamaran\n2. Text Surat Izin" 
+   },
+   {
+       "command":"1",
+       "type":"exactmatch",
+       "answer":"ini adalah isi surat lamaran pekerjaan" 
+   },
+   {
+       "command":"2",
+       "type":"exactmatch",
+       "answer":"ini adalah isi surat izin sakit" 
+   },
+   {
+       "command":"bot",
+       "type":"startwith",
+       "answer":"apa manggil2?!!" 
+   },
+   {
+       "command":"an",
+       "type":"endwith",
+       "answer":"A'an" 
+   },
+   {
+       "command":"*",
+       "type":"welcome",
+       "answer":"Selamat datang @(username) (from_id) (chat_id)" 
+   }
+]

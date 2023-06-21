@@ -1,0 +1,12 @@
+[
+   {
+       "command":"/start",
+       "type":"exactmatch",
+       "answer":"Halo, selamat datang di bot kerang ajaib! Silakan ketik '/apakah [pertanyaan]' untuk menanyakan sesuatu ke saya." 
+   },
+   {
+       "command":"/apakah",
+       "type":"startwith",
+       "answer":"Username : @(username)\nJawaban : {[\"Tidak\", \"Iya\"]}" 
+   }
+]

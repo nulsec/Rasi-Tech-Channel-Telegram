@@ -1,0 +1,23 @@
+[
+   {
+       "command":"/start",
+       "type":"exactmatch",
+       "answer":"halo aku adalah anak anjing, aku bisa membantumu" 
+   },
+   {
+       "command":"/username",
+       "type":"exactmatch",
+       "answer":"ini username kamu: <b>@(username)</b>" 
+   },
+   {
+       "command":"sound",
+       "type":"contains",
+       "answer":"https://vt.tiktok.com/ZS8ctoo5R/" 
+   },
+   {
+       "command":"/menu",
+       "type":"contains",
+       "answer":"untuk menjalankan bot ini bisa di ketik dengan \n1. /start (mulai bot) \n2. /username (username kamu) \n3. /viralsongs (sound yang sedang viral)
+  " 
+   }
+]

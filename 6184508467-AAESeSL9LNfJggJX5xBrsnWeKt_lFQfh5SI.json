@@ -1,0 +1,38 @@
+[
+   {
+       "command":"/start",
+       "type":"exactmatch",
+       "answer":"halo <b>@(username)</b>,  saya spaceshatter bot paling keren sedunia! " 
+   },
+   {
+       "command":"/tanggal ",
+       "type":"exactmatch",
+       "answer":"sekarang itu (date_time)" 
+   },
+   {
+       "command":"/username",
+       "type":"exactmatch",
+       "answer":"nama kamu <b>@(username)</b>" 
+   },
+
+   {
+       "command":"/menu",
+       "type":"contains",
+       "answer":"silahkan pilih menu dibawah ini\n1. meme youtube\n2. meme Instagram\n3. meme tiktok" 
+   },
+   {
+       "command":"1",
+       "type":"contains",
+       "answer":"https://youtu.be/XDlzaem7s00" 
+   },
+   {
+       "command":"2",
+       "type":"contains",
+       "answer":"https://www.instagram.com/p/CpzmgxYLxhQ/?igshid=MTIyMzRjYmRlZg==" 
+   },
+   {
+       "command":"3",
+       "type":"contains",
+       "answer":"https://vt.tiktok.com/ZS8vtDMve/" 
+   }
+]

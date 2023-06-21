@@ -1,0 +1,43 @@
+[
+        {
+            "command": "/Biznet",
+            "type": "exactmatch",
+            "answer": "Anda memesan Bizne, silahkan tunggu sebentar."
+        },
+        {
+            "command": "/mie",
+            "type": "exactmatch",
+            "answer": "Anda memesan mie, silahkan tunggu sebentar."
+        },
+        {
+            "command": "/sate",
+            "type": "exactmatch",
+            "answer": "Anda memesan sate, silahkan tunggu sebentar."
+        },
+        {
+            "command": "/menu",
+            "type": "exactmatch",
+            "answer": "Berikut daftar makanan yang tersedia:\n/ayam\n/mie\n/sate"
+        },
+        {
+            "command": "ayam",
+            "type": "contains",
+            "answer": "Apakah Anda ingin memesan ayam? Jika ya, silahkan ketik /ayam."
+        },
+        {
+            "command": "mie",
+            "type": "contains",
+            "answer": "Apakah Anda ingin memesan mie? Jika ya, silahkan ketik /mie."
+        },
+        {
+            "command": "sate",
+            "type": "contains",
+            "answer": "Apakah Anda ingin memesan sate? Jika ya, silahkan ketik /sate."
+            "(buttonurl://http://t.me.aginazharmhlutfy)
+        },
+        {
+            "command": "",
+            "type": "all",
+            "answer": "Mohon maaf, perintah yang Anda masukkan tidak dikenali. Silahkan ketik /menu untuk melihat daftar makanan yang tersedia."
+        }
+    ]

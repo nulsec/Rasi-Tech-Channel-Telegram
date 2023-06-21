@@ -1,0 +1,13 @@
+[
+   {
+       "command":"start",
+       "type":"all",
+       "answer":"halo, saya adalah Bot Pengaduan!" 
+   },
+   {
+       "command":"*",
+       "type":"all",
+       "answer":"silahkan kirimkan pesan Anda dengan format di bawah ini :
+" 
+   }
+]

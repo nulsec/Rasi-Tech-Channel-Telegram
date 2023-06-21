@@ -1,0 +1,17 @@
+[
+   {
+       "command":".kick @",
+       "type":"startwith",
+       "answer":"Hanya bisa di lakukan oleh owner" 
+   },
+   {
+       "command":".kick @",
+       "type":"startwith",
+       "answer":"Hanya bisa di lakukan oleh owner" 
+   },
+   {
+       "command":".kick @",
+       "type":"startwith",
+       "answer":"Hanya bisa di lakukan oleh owner" 
+   }
+]

@@ -1,0 +1,122 @@
+[
+   {
+       "command":"hallo",
+       "type":"startwith",
+       "answer":"jug" 
+   },
+   {
+       "command":"hallo",
+       "type":"startwith",
+       "answer":"juga" 
+   },
+   {
+       "command":"hallo",
+       "type":"contains",
+       "answer":"juga" 
+   },
+   {
+       "command":"hallo",
+       "type":"exactmatch",
+       "answer":"juga" 
+   },
+   {
+       "command":"hallo",
+       "type":"endwith",
+       "answer":"juga" 
+   },
+   {
+       "command":"*",
+       "type":"welcome",
+       "answer":"juga" 
+   },
+   {
+       "command":"*",
+       "type":"all",
+       "answer":"juga" 
+   },
+   {
+       "command":"hallo",
+       "type":"startwith",
+       "answer":"juga" 
+   },
+   {
+       "command":"hallo",
+       "type":"endwith",
+       "answer":"juga" 
+   },
+   {
+       "command":"*",
+       "type":"welcome",
+       "answer":"juga" 
+   },
+   {
+       "command":"*",
+       "type":"all",
+       "answer":"juga" 
+   },
+   {
+       "command":"*",
+       "type":"all",
+       "answer":"juga" 
+   },
+   {
+       "command":"*",
+       "type":"all",
+       "answer":"juga" 
+   },
+   {
+       "command":"*",
+       "type":"all",
+       "answer":"juga" 
+   },
+   {
+       "command":"*hallo",
+       "type":"contains",
+       "answer":"juga" 
+   },
+   {
+       "command":"*hallo",
+       "type":"contains",
+       "answer":"juga" 
+   },
+   {
+       "command":"*hallo",
+       "type":"exactmatch",
+       "answer":"juga" 
+   },
+   {
+       "command":"*jangan lupa shalat",
+       "type":"contains",
+       "answer":"kamu juga ya" 
+   },
+   {
+       "command":"*jangan lupa shalat",
+       "type":"exactmatch",
+       "answer":"kamu juga ya" 
+   },
+   {
+       "command":"*",
+       "type":"welcome",
+       "answer":"kamu juga ya" 
+   },
+   {
+       "command":"*",
+       "type":"welcome",
+       "answer":"kamu juga ya" 
+   },
+   {
+       "command":"*",
+       "type":"all",
+       "answer":"kamu juga ya" 
+   },
+   {
+       "command":"*",
+       "type":"startwith",
+       "answer":"kamu juga ya" 
+   },
+   {
+       "command":"*",
+       "type":"endwith",
+       "answer":"kamu juga ya" 
+   }
+]

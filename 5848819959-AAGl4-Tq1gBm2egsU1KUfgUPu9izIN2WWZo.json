@@ -1,0 +1,17 @@
+[
+   {
+       "command":"/start",
+       "type":"startwith",
+       "answer":"sok asik lu" 
+   },
+   {
+       "command":"apa kabar mu bot",
+       "type":"contains",
+       "answer":"sangat baik" 
+   },
+   {
+       "command":"apa kabar mu bot",
+       "type":"startwith",
+       "answer":"sangat baik" 
+   }
+]

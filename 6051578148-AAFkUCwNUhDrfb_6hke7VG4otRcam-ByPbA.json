@@ -1,0 +1,12 @@
+[
+   {
+       "command":"p",
+       "type":"contains",
+       "answer":"apa weh" 
+   },
+   {
+       "command":"/start",
+       "type":"exactmatch",
+       "answer":"hai" 
+   }
+]

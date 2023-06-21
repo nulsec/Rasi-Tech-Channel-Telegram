@@ -1,0 +1,122 @@
+[
+   {
+       "command":"*",
+       "type":"welcome",
+       "answer":"Hai kak username" 
+   },
+   {
+       "command":"*",
+       "type":"welcome",
+       "answer":"Hai kak username" 
+   },
+   {
+       "command":"*",
+       "type":"welcome",
+       "answer":"Hai kak username" 
+   },
+   {
+       "command":"Halo ",
+       "type":"contains",
+       "answer":"Hai kak username" 
+   },
+   {
+       "command":"*",
+       "type":"all",
+       "answer":"Hai kak username" 
+   },
+   {
+       "command":"*",
+       "type":"all",
+       "answer":"Hai kak username" 
+   },
+   {
+       "command":"*",
+       "type":"all",
+       "answer":"Hai kak (mention_chat_first)" 
+   },
+   {
+       "command":"*",
+       "type":"all",
+       "answer":"Hai kak (mention_chat_first)" 
+   },
+   {
+       "command":"*",
+       "type":"all",
+       "answer":"Hai kak (mention_chat_first)" 
+   },
+   {
+       "command":"*",
+       "type":"all",
+       "answer":"Hai kak (mention_chat_first)" 
+   },
+   {
+       "command":"*",
+       "type":"all",
+       "answer":"Hai kak (mention_chat_first)" 
+   },
+   {
+       "command":"*",
+       "type":"all",
+       "answer":"Hai kak (mention_chat_first)" 
+   },
+   {
+       "command":"*",
+       "type":"all",
+       "answer":"Hai kak (mention_chat_first)" 
+   },
+   {
+       "command":"*",
+       "type":"all",
+       "answer":"Hai kak (mention_chat_first)" 
+   },
+   {
+       "command":"*",
+       "type":"all",
+       "answer":"Hai kak (mention_chat_first)" 
+   },
+   {
+       "command":"*",
+       "type":"all",
+       "answer":"Hai kak (mention_chat_first)" 
+   },
+   {
+       "command":"*",
+       "type":"all",
+       "answer":"Hai kak (mention_chat_first)" 
+   },
+   {
+       "command":"*",
+       "type":"all",
+       "answer":"Hai kak (mention_chat_first)" 
+   },
+   {
+       "command":"*",
+       "type":"all",
+       "answer":"Hai kak (mention_chat_first)" 
+   },
+   {
+       "command":"*",
+       "type":"all",
+       "answer":"Hai kak (mention_chat_first)" 
+   },
+   {
+       "command":"*",
+       "type":"all",
+       "answer":"Hai kak (mention_chat_first)" 
+   },
+   {
+       "command":"*",
+       "type":"all",
+       "answer":"Hai kak (mention_chat_first)" 
+   },
+   {
+       "command":"*",
+       "type":"all",
+       "answer":"Hai kak (mention_chat_first)" 
+   },
+   {
+       "command":"p",
+       "type":"contains",
+       "answer":"Hai kak (mention_chat_first)" 
+   }
+]

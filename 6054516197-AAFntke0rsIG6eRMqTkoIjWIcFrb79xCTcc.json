@@ -1,0 +1,62 @@
+[
+   {
+      "command":"/start",
+      "type":"exactmatch",
+      "answer":"Halo, saya Bambang. Saya tukang undi hadiah. Klik /undi atau /daget untuk mendapatkan hadiah."
+   },
+   {
+      "command":"/undi",
+      "type":"exactmatch",
+      "answer":"@(username) telah mendapatkan {[\"Bola\", \"HP VIVO\", \"IPHONE 14 PRO MAX\", \"HP ADVAN\", \"Sepeda\", \"Sempak bekas\", \"Laptop\", \"Mobil\", \"Sepatu\", \"Motor Vario\", \"Motor Mio\", \"Motor Aerox\", \"Motor supra\", \"HP Samsung S22\", \"HP Xiaomi\", \"HP OPPO\", \"HP MITO\", \"HP Esia Hidayah\", \"HP Poco X3\", \"Truk HINO\"]} dari {[\"Bang Maul\", \"Om Bayu\", \"Li Pandi\", \"Handy\", \"Raffi Ahmad\", \"Pak Jokowi\", \"Pak Anies\", \"Pak Sandiaga Uno\", \"Pak Ganjar\", \"Bang Mekdi\"]}"
+   },
+   {
+      "command":"mana",
+      "type":"contains",
+      "answer":"{[\"Yaa gak tau\", \"Tanya orangnya aja\", \"Boongan doang weh\", \"Simulasi aja ini mah\", \"Doain aja di kirim beneran\", \"Mana saya tau\", \"Dihatimu\", \"Ambil di rumah tetangga sebelah\", \"Jangan terlalu berharap \", \"Gatau saya kan cuma ngundi asal hehe\"]}"
+   }, 
+   {
+      "command":"/daget",
+      "type":"exactmatch",
+      "answer":"@(username) mendapat {[\"0\", \"1000\", \"0\", \"zonk\", \"0\", \"111p\", \"0\", \"0\", \"zonk\", \"0\"]}"
+   }, 
+   {
+      "command":"/hadir",
+      "type":"exactmatch",
+      "answer":"@(username) {[\"telah hadir\", \"terlambat datang, silahkan beri hukuman\", \"datang tepat waktu, silahkan mengikuti pelajaran\", \"datang kecepetan\", \"telah hadir\", \"datang tepat waktu\", \"pura pura hadir, nanti juga ngilang\", \"baru datang\", \"terlambat datang bulan\", \"terlambat beberapa menit\"]}"
+   }, 
+   {
+      "command":"/hukum",
+      "type":"exactmatch",
+      "answer":"(reply_message_username) telah dihukum {[\"pancung\", \"hormat di depan bendera sampai jam pulang\", \"jalan jongkok keliling lapangan\", \"jalan jongkok sambil kayang\", \"wajib daget 1000\", \"rajam\", \"cambuk 1000x\", \"gantung\", \"salib\", \"untuk bernapas manual selama 1 jam\"]}"
+   },
+   {
+       "command":"bambang",
+       "type":"contains",
+       "answer":"{[\"Apa manggil manggil?\", \"Apa?\", \"Kenape hah?\"]}"
+   }, 
+   {
+       "command":"aku",
+       "type":"contains",
+       "answer":"{[\"Kamu\", \"Lu\", \"Ente\"]} (first_name), Username nya @(username), ID nya (from_id)"
+   },
+   {
+       "command":"kamu siapa",
+       "type":"contains",
+       "answer":"{[\"Gue bambang\", \"Kenalin, Bambang. Lu sape?\", \"Kamu nanyea?\"]}"
+   },
+   {
+       "command":"tanggal berapa",
+       "type":"contains",
+       "answer":"{[\"Sekarang?\", \"Kamu nanyea?\", \"Bukannya\"]} (date)? dalam UTC0 kalo di Indonesia beda 7-9 jam lebih cepat siapa tau udh ganti hari"
+   },
+   {
+       "command":"jam berapa",
+       "type":"contains",
+       "answer":"{[\"Sekarang mah\", \"Kayaknya\", \"Kalo gak salah\"]} jam (time) detik dalam UTC  0 Kalo WIB tambah 7 jam, WITA tambah 8, WIT tambah 9"
+   },
+   {
+      "command":"*",
+      "type":"all",
+      "answer":"{[\"Maksudnya?\", \"(botai)\", \"Gak ngerti gw\", \"(botai)\", \"Apa ya (message) itu? \", \"Ngomongin apaan sih? \", \"(botai)\", \"Apa iya? \", \"(botai)\", \"(botai)\", \"Hadeh\", \"Ane jd bingung\"]}"
+   }
+]

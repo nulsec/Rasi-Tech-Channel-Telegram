@@ -1,0 +1,14 @@
+[
+   {
+       "command":"/menu",
+       "type":"all",
+       "answer":"Halo Hehe" 
+   }
+]
+[
+   {
+       "command":"/owner",
+       "type":"all",
+       "answer":"Owner Bot Adalah t.me/HannDesu" 
+   }
+]

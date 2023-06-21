@@ -1,0 +1,96 @@
+[
+   {
+       "command":"/kerang",
+       "type":"startwith",
+       "answer":"{[\"iya\",\"tidak\",\"mungkin\"]}" 
+   }, 
+   {
+       "command":"/persen",
+       "type":"startwith",
+       "answer":"(100)%persen" 
+   }, 
+   {
+       "command":"/kapan",
+       "type":"startwith",
+       "answer":"{[\"kapan-kapan\",\"besok\",\"hari ini\",\"(10) jam
+       lagi\",\"(100) hari lagi\",\"(10) tahun lagi\"]}" 
+   }, 
+   {
+       "command":"/menu",
+       "type":"contains",
+       "answer":"Menu /n/nGabut menu/n-/apakah/n-/kerang/n-/kapan/n/nPantun menu" 
+   }, 
+   {
+       "command":"/pantun islam",
+       "type":"contains",
+       "answer":"{[\"Mawar tumbuh di halaman,\nWalau kecil menjadi taman.\nAl
+       Quran adalah pedoman,\nPetunjuk terang setiap zaman\",\"Jalan-jalan ke
+       Kenya\nTetap saja makan roti\nIbadah hanya kepada-Nya\nNiat bersih ikhlas
+       hati\"]}" 
+   }, 
+   {
+       "command":"t",
+       "type":"contains",
+       "answer":"p" 
+   }, 
+   {
+       "command":"t",
+       "type":"contains",
+       "answer":"p" 
+   }, 
+   {
+       "command":"t",
+       "type":"contains",
+       "answer":"p" 
+   }, 
+   {
+       "command":"t",
+       "type":"contains",
+       "answer":"p" 
+   }, 
+   {
+       "command":"t",
+       "type":"contains",
+       "answer":"p" 
+   }, 
+   {
+       "command":"t",
+       "type":"contains",
+       "answer":"p" 
+   }, 
+   {
+       "command":"t",
+       "type":"contains",
+       "answer":"p" 
+   },
+   {
+       "command":"t",
+       "type":"contains",
+       "answer":"p" 
+   }, 
+   {
+       "command":"t",
+       "type":"contains",
+       "answer":"p" 
+   }, 
+   {
+       "command":"t",
+       "type":"contains",
+       "answer":"p" 
+   }, 
+   {
+       "command":"t",
+       "type":"contains",
+       "answer":"p" 
+   }, 
+   {
+       "command":"t",
+       "type":"contains",
+       "answer":"p" 
+   },
+   {
+       "command":"pake tanya ",
+       "type":"contains",
+       "answer":"iya" 
+   }
+]

@@ -1,0 +1,17 @@
+[
+   {
+       "command":"*",
+       "type":"startwith",
+       "answer":"welcom to my world" 
+   },
+   {
+       "command":"*hacker",
+       "type":"startwith",
+       "answer":"welcom to my world" 
+   },
+   {
+       "command":"*",
+       "type":"welcome",
+       "answer":"welcom to my world" 
+   }
+]
